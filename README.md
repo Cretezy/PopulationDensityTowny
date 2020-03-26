@@ -4,7 +4,7 @@ Block claiming Population Density region posts in Towny.
 
 ## Installation
 
-Download `PopulationDensityTowny.jar` from the [Spigot resource page]() and place inside your `plugins` folder.
+Download `PopulationDensityTowny.jar` from the [Spigot resource page](https://www.spigotmc.org/resources/populationdensitytowny.76509/) and place inside your `plugins` folder.
 
 ## Config
 
@@ -15,7 +15,7 @@ Download `PopulationDensityTowny.jar` from the [Spigot resource page]() and plac
 distance: 1
 # If the distance check is circular or square
 circular: false
-# Message to send to players when trying to claim a region post
+# Message to send to players when trying to claim a region post. Supports color codes with &
 # This is null by default because Towny will also send the msg_claim_error message
 # You should edit the msg_claim_error instead to prevent a double message
 message: null
