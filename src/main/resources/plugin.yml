@@ -1,0 +1,5 @@
+name: PopulationDensityTowny
+version: @version@
+main: com.cretezy.populationdensitytowny.PopulationDensityTowny
+api-version: 1.13
+depend: [PopulationDensity, Towny]
